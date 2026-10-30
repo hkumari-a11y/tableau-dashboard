@@ -26,3 +26,18 @@ This work demonstrates skills relevant to Business Intelligence Analyst, Data An
 **Heenu Kumari**  
 M.S. Business Analytics, Santa Clara University  
 [LinkedIn](https://www.linkedin.com/in/heenu-kumari-9b062a3b4) | [GitHub](https://github.com/hkumari-a11y)
+
+## Featured project: School Finance Analytics
+**Question:** How can school finance information be presented clearly for stakeholder review?
+
+**Portfolio focus:** Organizing financial KPIs and communicating trends using dashboard-style reporting. Check the repository files for the actual workbook or dashboard artifacts; a live Tableau dashboard is not claimed here.
+
+## How to review
+1. Open the available dashboard or workbook files.
+2. Examine the KPI definitions and chart labels.
+3. Compare any conclusions with the underlying data.
+
+## Next improvements
+- Add a screenshot of the actual dashboard.
+- Include a verified summary of key insights and data limitations.
+- Link to a Tableau Public dashboard only if one has been published.
